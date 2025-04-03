@@ -34,4 +34,4 @@ E[[True, False, False], :].shape
 E[[True, False, True], :] = D
 print(E)
 
-# %%
+
